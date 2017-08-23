@@ -1,0 +1,14 @@
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf FIN.results/chr5.height.snps.recode.vcf
+	--out FIN.plink/chr5.height.snps.recode.vcf
+	--plink
+
+After filtering, kept 99 out of 99 Individuals
+Writing PLINK PED and MAP files ... 
+Done.
+After filtering, kept 51 out of a possible 51 Sites
+Run Time = 0.00 seconds

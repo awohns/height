@@ -1,0 +1,35 @@
+PLINK v1.90b3.27 64-bit (13 Dec 2015)
+Options in effect:
+  --file all.johns.height_ped
+  --out all.johns.height_with_rsid
+  --recode
+  --update-map /ebc_data/awwohns/reference/dbsnpvcf/dbsnp.ref.update.name.dedup
+  --update-name
+
+Hostname: ebc201
+Working directory: /mmg/awwohns/height
+Start time: Sat Aug 19 04:22:28 2017
+
+Note: --update-map [filename] + parameter-free --update-name deprecated.  Use
+--update-name [filename] instead.
+Random number seed: 1503105748
+257661 MB RAM detected; reserving 128830 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (696 variants, 86 people).
+--file: all.johns.height_with_rsid-temporary.bed +
+all.johns.height_with_rsid-temporary.bim +
+all.johns.height_with_rsid-temporary.fam written.
+696 variants loaded from .bim file.
+86 people (0 males, 0 females, 86 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to all.johns.height_with_rsid.nosex .
+--update-name: 696 values updated, 145516791 variant IDs not present.
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 86 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.982207.
+696 variants and 86 people pass filters and QC.
+Note: No phenotypes present.
+--recode to all.johns.height_with_rsid.ped + all.johns.height_with_rsid.map ...
+done.
+
+End time: Sat Aug 19 04:22:50 2017

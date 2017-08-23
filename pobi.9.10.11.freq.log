@@ -1,0 +1,32 @@
+PLINK v1.90b3.27 64-bit (13 Dec 2015)
+Options in effect:
+  --bfile 9.10.11.updated.map
+  --extract ../../../height/wood_snp_names
+  --freq
+  --make-bed
+  --out ../../../height/pobi.9.10.11.freq
+
+Hostname: ebc201
+Working directory: /mmg/awwohns/selection_v4/references/se.england.pobi
+Start time: Thu Jul 20 08:49:47 2017
+
+Random number seed: 1500529787
+257661 MB RAM detected; reserving 128830 MB for main workspace.
+Allocated 72466 MB successfully, after larger attempt(s) failed.
+827147 variants loaded from .bim file.
+204 people (104 males, 100 females) loaded from .fam.
+204 phenotype values loaded from .fam.
+--extract: 308 variants remaining.
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 204 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.999793.
+--freq: Allele frequencies (founders only) written to
+../../../height/pobi.9.10.11.freq.frq .
+308 variants and 204 people pass filters and QC.
+Among remaining phenotypes, 0 are cases and 204 are controls.
+--make-bed to ../../../height/pobi.9.10.11.freq.bed +
+../../../height/pobi.9.10.11.freq.bim + ../../../height/pobi.9.10.11.freq.fam
+... done.
+
+End time: Thu Jul 20 08:49:48 2017

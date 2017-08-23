@@ -1,0 +1,11 @@
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf FIN.results/chr19.height.snps.log
+	--out FIN.plink/chr19.height.snps.log
+	--plink
+
+After filtering, kept 0 out of 0 Individuals
+Error: Require Genotypes in VCF file in order to output as PLINK.

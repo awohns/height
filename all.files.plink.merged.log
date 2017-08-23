@@ -1,0 +1,14 @@
+PLINK v1.90b3.27 64-bit (13 Dec 2015)
+Options in effect:
+  --merge TSI.plink/all.files.plink.txt
+  --out all.files.plink.merged
+  --recode
+
+Hostname: ebc201
+Working directory: /mmg/awwohns/height
+Start time: Wed Aug 23 15:34:24 2017
+
+Error: No input dataset.
+For more information, try 'plink --help [flag name]' or 'plink --help | more'.
+
+End time: Wed Aug 23 15:34:24 2017

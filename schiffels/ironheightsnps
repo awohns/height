@@ -1,0 +1,4 @@
+	-> angsd version: 0.913-22-g10d7007-dirty (htslib: 1.3.1-58-g344c825) build(Aug 10 2016 18:27:01)
+	-> [prep_sites.cpp] Reading binary representation of 'wood_snp_sites'
+	-> Binary file doesnt exists:wood_snp_sites.bin you should index:wood_snp_sites
+	-> like: 'angsd sites index wood_snp_sites'

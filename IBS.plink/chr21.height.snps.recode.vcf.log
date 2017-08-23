@@ -1,0 +1,14 @@
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf IBS.results/chr21.height.snps.recode.vcf
+	--out IBS.plink/chr21.height.snps.recode.vcf
+	--plink
+
+After filtering, kept 107 out of 107 Individuals
+Writing PLINK PED and MAP files ... 
+Done.
+After filtering, kept 4 out of a possible 4 Sites
+Run Time = 0.00 seconds

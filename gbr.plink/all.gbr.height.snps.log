@@ -1,0 +1,15 @@
+
+VCFtools - v0.1.12b
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf gbr.results/all.gbr.height.snps.vcf
+	--out gbr.plink/all.gbr.height.snps
+	--plink
+
+After filtering, kept 91 out of 91 Individuals
+Writing PLINK PED and MAP files ... 
+	PLINK: Only outputting biallelic loci.
+Done.
+After filtering, kept 693 out of a possible 693 Sites
+Run Time = 1.00 seconds

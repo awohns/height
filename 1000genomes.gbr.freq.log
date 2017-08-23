@@ -1,0 +1,28 @@
+PLINK v1.90b3.27 64-bit (13 Dec 2015)
+Options in effect:
+  --a1-allele height_snp_ref
+  --file gbr.plink/all.gbr.height.snps
+  --freq
+  --out 1000genomes.gbr.freq
+
+Hostname: ebc201
+Working directory: /mmg/awwohns/height
+Start time: Sat Aug 19 18:14:20 2017
+
+Random number seed: 1503155660
+257661 MB RAM detected; reserving 128830 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (691 variants, 91 people).
+--file: 1000genomes.gbr.freq-temporary.bed + 1000genomes.gbr.freq-temporary.bim
++ 1000genomes.gbr.freq-temporary.fam written.
+691 variants loaded from .bim file.
+91 people (0 males, 0 females, 91 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to 1000genomes.gbr.freq.nosex .
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 91 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+--a1-allele: 691 assignments made.
+--freq: Allele frequencies (founders only) written to 1000genomes.gbr.freq.frq
+.
+
+End time: Sat Aug 19 18:14:20 2017

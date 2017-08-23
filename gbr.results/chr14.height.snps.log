@@ -1,0 +1,17 @@
+
+VCFtools - v0.1.12b
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf ../reference/1000Genomes_panels/gbr.vcfs/ALL.chr14.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.ac.filled.vcf.gz
+	--recode-INFO-all
+	--out gbr.results/chr14.height.snps
+	--recode
+	--snps wood_snp_names
+
+Using zlib version: 1.2.3
+Versions of zlib >= 1.2.4 will be *much* faster when reading zipped VCF files.
+After filtering, kept 91 out of 91 Individuals
+Outputting VCF file...
+After filtering, kept 17 out of a possible 2655067 Sites
+Run Time = 10.00 seconds

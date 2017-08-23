@@ -1,0 +1,1 @@
+angsd -b /ebc_data/awwohns/new_bams.filelist -doMaf 1 -doCounts 1 -out all.johns -sites /ebc_data/awwohns/height/wood_snp_sites

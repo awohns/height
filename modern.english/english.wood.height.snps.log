@@ -1,0 +1,25 @@
+PLINK v1.90b3.27 64-bit (13 Dec 2015)
+Options in effect:
+  --bfile ../population.statistics.2/ho.pops/english.inds.ho
+  --extract wood_snp_names
+  --freq
+  --out modern.english/english.wood.height.snps
+
+Hostname: ebc201
+Working directory: /mmg/awwohns/height
+Start time: Tue Jul 25 21:50:02 2017
+
+Random number seed: 1501008602
+257661 MB RAM detected; reserving 128830 MB for main workspace.
+621799 variants loaded from .bim file.
+10 people (5 males, 5 females) loaded from .fam.
+10 phenotype values loaded from .fam.
+--extract: 103 variants remaining.
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 10 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.999029.
+--freq: Allele frequencies (founders only) written to
+modern.english/english.wood.height.snps.frq .
+
+End time: Tue Jul 25 21:50:02 2017

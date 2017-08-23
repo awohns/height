@@ -1,0 +1,349 @@
+	-> angsd version: 0.913-22-g10d7007-dirty (htslib: 1.3.1-58-g344c825) build(Aug 10 2016 18:27:01)
+	-> [prep_sites.cpp] Reading binary representation of 'wood_snp_sites'
+	-> [prep_sites.cpp] nChr: 22 loaded from binary filter file
+	-> [abcFilter.cpp] -sites is still beta, use at own risk...
+	-> Parsing 50 number of samples 
+	-> Printing at chr: 1 pos:215553995 chunknumber 100
+	-> Printing at chr: 2 pos:169453644 chunknumber 200
+	-> Printing at chr: 3 pos:128929892 chunknumber 300
+	-> Printing at chr: 4 pos:131736231 chunknumber 400
+	-> Printing at chr: 5 pos:161128480 chunknumber 500
+	-> Printing at chr: 6 pos:171048167 chunknumber 600
+	-> Printing at chr: 8 pos:36119495 chunknumber 700
+	-> Printing at chr: 9 pos:118571512 chunknumber 800
+	-> Printing at chr: 11 pos:14394850 chunknumber 900
+	-> Printing at chr: 12 pos:80259545 chunknumber 1000
+	-> Printing at chr: 14 pos:61523775 chunknumber 1100
+	-> Printing at chr: 16 pos:50237721 chunknumber 1200
+	-> Printing at chr: 18 pos:66109343 chunknumber 1300
+	-> Printing at chr: 21 pos:48119795 chunknumber 1400
+
+	-> Potential problem: The filereading has reached a chromsome: 'X', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+	-> Printing at chr: X pos:155260331 chunknumber 1500
+
+	-> Potential problem: The filereading has reached a chromsome: 'Y', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'MT', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000207.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000226.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000229.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000231.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000210.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000239.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000235.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000201.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000247.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000245.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000197.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000203.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000246.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000249.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000196.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000248.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000244.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000238.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000202.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000234.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000232.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000206.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000240.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000236.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000241.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000243.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000242.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000230.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+	-> Printing at chr: GL000230.1 pos:21006 chunknumber 1600
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000237.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000233.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000204.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000198.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000208.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000191.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000227.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000228.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000214.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000221.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000209.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000218.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000220.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000213.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000211.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000199.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000217.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000216.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000215.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000205.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+	-> Printing at chr: GL000205.1 pos:675 chunknumber 1700
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000219.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000224.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000223.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000195.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000212.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000222.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000200.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000193.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000194.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000225.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'GL000192.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'hs37d5', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+	-> Printing at chr: hs37d5 pos:18888483 chunknumber 1800
+	-> Printing at chr: hs37d5 pos:28629933 chunknumber 1900
+
+	-> Done reading data waiting for calculations to finish
+	-> Done waiting for threads
+	-> Output filenames:
+		->"post.wood.snps.arg"
+		->"post.wood.snps.mafs.gz"
+	-> Thu Jul 20 11:24:36 2017
+	-> Arguments and parameters for all analysis are located in .arg file
+	[ALL done] cpu-time used =  7663.46 sec
+	[ALL done] walltime used =  7709.00 sec
