@@ -3,9 +3,9 @@ VCFtools - v0.1.12b
 (C) Adam Auton and Anthony Marcketta 2009
 
 Parameters as interpreted:
-	--gzvcf ../reference/1000Genomes_panels/TSI.vcfs/ALL.chr10.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz.TSI.vcf.gz
+	--gzvcf ../reference/1000Genomes_panels/TSI.vcfs/ALL.chr16.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz.TSI.vcf.gz
 	--recode-INFO-all
-	--out TSI.results/chr10.height.snps
+	--out TSI.results/chr16.height.snps
 	--recode
 	--snps wood_snp_names
 
@@ -13,5 +13,5 @@ Using zlib version: 1.2.3
 Versions of zlib >= 1.2.4 will be *much* faster when reading zipped VCF files.
 After filtering, kept 107 out of 107 Individuals
 Outputting VCF file...
-After filtering, kept 24 out of a possible 3992219 Sites
-Run Time = 17.00 seconds
+After filtering, kept 28 out of a possible 2697949 Sites
+Run Time = 11.00 seconds

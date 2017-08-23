@@ -3,15 +3,15 @@ VCFtools - 0.1.15
 (C) Adam Auton and Anthony Marcketta 2009
 
 Parameters as interpreted:
-	--gzvcf TSI.results/all.vcfs.merged.vcf.gz
-	--out TSI.plink/plink.all.chrs
+	--gzvcf FIN.results/all.vcfs.merged.vcf.gz
+	--out FIN.plink/plink.all.chrs
 	--plink
 
 Using zlib version: 1.2.3
 Versions of zlib >= 1.2.4 will be *much* faster when reading zipped VCF files.
-After filtering, kept 107 out of 107 Individuals
+After filtering, kept 99 out of 99 Individuals
 Writing PLINK PED and MAP files ... 
 	PLINK: Only outputting biallelic loci.
 Done.
 After filtering, kept 693 out of a possible 693 Sites
-Run Time = 0.00 seconds
+Run Time = 1.00 seconds

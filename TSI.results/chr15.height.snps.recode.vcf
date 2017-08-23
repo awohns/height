@@ -1,0 +1,290 @@
+##fileformat=VCFv4.1
+##FILTER=<ID=PASS,Description="All filters passed">
+##fileDate=20150218
+##reference=ftp://ftp.1000genomes.ebi.ac.uk//vol1/ftp/technical/reference/phase2_reference_assembly_sequence/hs37d5.fa.gz
+##source=1000GenomesPhase3Pipeline
+##contig=<ID=1,assembly=b37,length=249250621>
+##contig=<ID=2,assembly=b37,length=243199373>
+##contig=<ID=3,assembly=b37,length=198022430>
+##contig=<ID=4,assembly=b37,length=191154276>
+##contig=<ID=5,assembly=b37,length=180915260>
+##contig=<ID=6,assembly=b37,length=171115067>
+##contig=<ID=7,assembly=b37,length=159138663>
+##contig=<ID=8,assembly=b37,length=146364022>
+##contig=<ID=9,assembly=b37,length=141213431>
+##contig=<ID=10,assembly=b37,length=135534747>
+##contig=<ID=11,assembly=b37,length=135006516>
+##contig=<ID=12,assembly=b37,length=133851895>
+##contig=<ID=13,assembly=b37,length=115169878>
+##contig=<ID=14,assembly=b37,length=107349540>
+##contig=<ID=15,assembly=b37,length=102531392>
+##contig=<ID=16,assembly=b37,length=90354753>
+##contig=<ID=17,assembly=b37,length=81195210>
+##contig=<ID=18,assembly=b37,length=78077248>
+##contig=<ID=19,assembly=b37,length=59128983>
+##contig=<ID=20,assembly=b37,length=63025520>
+##contig=<ID=21,assembly=b37,length=48129895>
+##contig=<ID=22,assembly=b37,length=51304566>
+##contig=<ID=GL000191.1,assembly=b37,length=106433>
+##contig=<ID=GL000192.1,assembly=b37,length=547496>
+##contig=<ID=GL000193.1,assembly=b37,length=189789>
+##contig=<ID=GL000194.1,assembly=b37,length=191469>
+##contig=<ID=GL000195.1,assembly=b37,length=182896>
+##contig=<ID=GL000196.1,assembly=b37,length=38914>
+##contig=<ID=GL000197.1,assembly=b37,length=37175>
+##contig=<ID=GL000198.1,assembly=b37,length=90085>
+##contig=<ID=GL000199.1,assembly=b37,length=169874>
+##contig=<ID=GL000200.1,assembly=b37,length=187035>
+##contig=<ID=GL000201.1,assembly=b37,length=36148>
+##contig=<ID=GL000202.1,assembly=b37,length=40103>
+##contig=<ID=GL000203.1,assembly=b37,length=37498>
+##contig=<ID=GL000204.1,assembly=b37,length=81310>
+##contig=<ID=GL000205.1,assembly=b37,length=174588>
+##contig=<ID=GL000206.1,assembly=b37,length=41001>
+##contig=<ID=GL000207.1,assembly=b37,length=4262>
+##contig=<ID=GL000208.1,assembly=b37,length=92689>
+##contig=<ID=GL000209.1,assembly=b37,length=159169>
+##contig=<ID=GL000210.1,assembly=b37,length=27682>
+##contig=<ID=GL000211.1,assembly=b37,length=166566>
+##contig=<ID=GL000212.1,assembly=b37,length=186858>
+##contig=<ID=GL000213.1,assembly=b37,length=164239>
+##contig=<ID=GL000214.1,assembly=b37,length=137718>
+##contig=<ID=GL000215.1,assembly=b37,length=172545>
+##contig=<ID=GL000216.1,assembly=b37,length=172294>
+##contig=<ID=GL000217.1,assembly=b37,length=172149>
+##contig=<ID=GL000218.1,assembly=b37,length=161147>
+##contig=<ID=GL000219.1,assembly=b37,length=179198>
+##contig=<ID=GL000220.1,assembly=b37,length=161802>
+##contig=<ID=GL000221.1,assembly=b37,length=155397>
+##contig=<ID=GL000222.1,assembly=b37,length=186861>
+##contig=<ID=GL000223.1,assembly=b37,length=180455>
+##contig=<ID=GL000224.1,assembly=b37,length=179693>
+##contig=<ID=GL000225.1,assembly=b37,length=211173>
+##contig=<ID=GL000226.1,assembly=b37,length=15008>
+##contig=<ID=GL000227.1,assembly=b37,length=128374>
+##contig=<ID=GL000228.1,assembly=b37,length=129120>
+##contig=<ID=GL000229.1,assembly=b37,length=19913>
+##contig=<ID=GL000230.1,assembly=b37,length=43691>
+##contig=<ID=GL000231.1,assembly=b37,length=27386>
+##contig=<ID=GL000232.1,assembly=b37,length=40652>
+##contig=<ID=GL000233.1,assembly=b37,length=45941>
+##contig=<ID=GL000234.1,assembly=b37,length=40531>
+##contig=<ID=GL000235.1,assembly=b37,length=34474>
+##contig=<ID=GL000236.1,assembly=b37,length=41934>
+##contig=<ID=GL000237.1,assembly=b37,length=45867>
+##contig=<ID=GL000238.1,assembly=b37,length=39939>
+##contig=<ID=GL000239.1,assembly=b37,length=33824>
+##contig=<ID=GL000240.1,assembly=b37,length=41933>
+##contig=<ID=GL000241.1,assembly=b37,length=42152>
+##contig=<ID=GL000242.1,assembly=b37,length=43523>
+##contig=<ID=GL000243.1,assembly=b37,length=43341>
+##contig=<ID=GL000244.1,assembly=b37,length=39929>
+##contig=<ID=GL000245.1,assembly=b37,length=36651>
+##contig=<ID=GL000246.1,assembly=b37,length=38154>
+##contig=<ID=GL000247.1,assembly=b37,length=36422>
+##contig=<ID=GL000248.1,assembly=b37,length=39786>
+##contig=<ID=GL000249.1,assembly=b37,length=38502>
+##contig=<ID=MT,assembly=b37,length=16569>
+##contig=<ID=NC_007605,assembly=b37,length=171823>
+##contig=<ID=X,assembly=b37,length=155270560>
+##contig=<ID=Y,assembly=b37,length=59373566>
+##contig=<ID=hs37d5,assembly=b37,length=35477943>
+##ALT=<ID=CNV,Description="Copy Number Polymorphism">
+##ALT=<ID=DEL,Description="Deletion">
+##ALT=<ID=DUP,Description="Duplication">
+##ALT=<ID=INS:ME:ALU,Description="Insertion of ALU element">
+##ALT=<ID=INS:ME:LINE1,Description="Insertion of LINE1 element">
+##ALT=<ID=INS:ME:SVA,Description="Insertion of SVA element">
+##ALT=<ID=INS:MT,Description="Nuclear Mitochondrial Insertion">
+##ALT=<ID=INV,Description="Inversion">
+##ALT=<ID=CN0,Description="Copy number allele: 0 copies">
+##ALT=<ID=CN1,Description="Copy number allele: 1 copy">
+##ALT=<ID=CN2,Description="Copy number allele: 2 copies">
+##ALT=<ID=CN3,Description="Copy number allele: 3 copies">
+##ALT=<ID=CN4,Description="Copy number allele: 4 copies">
+##ALT=<ID=CN5,Description="Copy number allele: 5 copies">
+##ALT=<ID=CN6,Description="Copy number allele: 6 copies">
+##ALT=<ID=CN7,Description="Copy number allele: 7 copies">
+##ALT=<ID=CN8,Description="Copy number allele: 8 copies">
+##ALT=<ID=CN9,Description="Copy number allele: 9 copies">
+##ALT=<ID=CN10,Description="Copy number allele: 10 copies">
+##ALT=<ID=CN11,Description="Copy number allele: 11 copies">
+##ALT=<ID=CN12,Description="Copy number allele: 12 copies">
+##ALT=<ID=CN13,Description="Copy number allele: 13 copies">
+##ALT=<ID=CN14,Description="Copy number allele: 14 copies">
+##ALT=<ID=CN15,Description="Copy number allele: 15 copies">
+##ALT=<ID=CN16,Description="Copy number allele: 16 copies">
+##ALT=<ID=CN17,Description="Copy number allele: 17 copies">
+##ALT=<ID=CN18,Description="Copy number allele: 18 copies">
+##ALT=<ID=CN19,Description="Copy number allele: 19 copies">
+##ALT=<ID=CN20,Description="Copy number allele: 20 copies">
+##ALT=<ID=CN21,Description="Copy number allele: 21 copies">
+##ALT=<ID=CN22,Description="Copy number allele: 22 copies">
+##ALT=<ID=CN23,Description="Copy number allele: 23 copies">
+##ALT=<ID=CN24,Description="Copy number allele: 24 copies">
+##ALT=<ID=CN25,Description="Copy number allele: 25 copies">
+##ALT=<ID=CN26,Description="Copy number allele: 26 copies">
+##ALT=<ID=CN27,Description="Copy number allele: 27 copies">
+##ALT=<ID=CN28,Description="Copy number allele: 28 copies">
+##ALT=<ID=CN29,Description="Copy number allele: 29 copies">
+##ALT=<ID=CN30,Description="Copy number allele: 30 copies">
+##ALT=<ID=CN31,Description="Copy number allele: 31 copies">
+##ALT=<ID=CN32,Description="Copy number allele: 32 copies">
+##ALT=<ID=CN33,Description="Copy number allele: 33 copies">
+##ALT=<ID=CN34,Description="Copy number allele: 34 copies">
+##ALT=<ID=CN35,Description="Copy number allele: 35 copies">
+##ALT=<ID=CN36,Description="Copy number allele: 36 copies">
+##ALT=<ID=CN37,Description="Copy number allele: 37 copies">
+##ALT=<ID=CN38,Description="Copy number allele: 38 copies">
+##ALT=<ID=CN39,Description="Copy number allele: 39 copies">
+##ALT=<ID=CN40,Description="Copy number allele: 40 copies">
+##ALT=<ID=CN41,Description="Copy number allele: 41 copies">
+##ALT=<ID=CN42,Description="Copy number allele: 42 copies">
+##ALT=<ID=CN43,Description="Copy number allele: 43 copies">
+##ALT=<ID=CN44,Description="Copy number allele: 44 copies">
+##ALT=<ID=CN45,Description="Copy number allele: 45 copies">
+##ALT=<ID=CN46,Description="Copy number allele: 46 copies">
+##ALT=<ID=CN47,Description="Copy number allele: 47 copies">
+##ALT=<ID=CN48,Description="Copy number allele: 48 copies">
+##ALT=<ID=CN49,Description="Copy number allele: 49 copies">
+##ALT=<ID=CN50,Description="Copy number allele: 50 copies">
+##ALT=<ID=CN51,Description="Copy number allele: 51 copies">
+##ALT=<ID=CN52,Description="Copy number allele: 52 copies">
+##ALT=<ID=CN53,Description="Copy number allele: 53 copies">
+##ALT=<ID=CN54,Description="Copy number allele: 54 copies">
+##ALT=<ID=CN55,Description="Copy number allele: 55 copies">
+##ALT=<ID=CN56,Description="Copy number allele: 56 copies">
+##ALT=<ID=CN57,Description="Copy number allele: 57 copies">
+##ALT=<ID=CN58,Description="Copy number allele: 58 copies">
+##ALT=<ID=CN59,Description="Copy number allele: 59 copies">
+##ALT=<ID=CN60,Description="Copy number allele: 60 copies">
+##ALT=<ID=CN61,Description="Copy number allele: 61 copies">
+##ALT=<ID=CN62,Description="Copy number allele: 62 copies">
+##ALT=<ID=CN63,Description="Copy number allele: 63 copies">
+##ALT=<ID=CN64,Description="Copy number allele: 64 copies">
+##ALT=<ID=CN65,Description="Copy number allele: 65 copies">
+##ALT=<ID=CN66,Description="Copy number allele: 66 copies">
+##ALT=<ID=CN67,Description="Copy number allele: 67 copies">
+##ALT=<ID=CN68,Description="Copy number allele: 68 copies">
+##ALT=<ID=CN69,Description="Copy number allele: 69 copies">
+##ALT=<ID=CN70,Description="Copy number allele: 70 copies">
+##ALT=<ID=CN71,Description="Copy number allele: 71 copies">
+##ALT=<ID=CN72,Description="Copy number allele: 72 copies">
+##ALT=<ID=CN73,Description="Copy number allele: 73 copies">
+##ALT=<ID=CN74,Description="Copy number allele: 74 copies">
+##ALT=<ID=CN75,Description="Copy number allele: 75 copies">
+##ALT=<ID=CN76,Description="Copy number allele: 76 copies">
+##ALT=<ID=CN77,Description="Copy number allele: 77 copies">
+##ALT=<ID=CN78,Description="Copy number allele: 78 copies">
+##ALT=<ID=CN79,Description="Copy number allele: 79 copies">
+##ALT=<ID=CN80,Description="Copy number allele: 80 copies">
+##ALT=<ID=CN81,Description="Copy number allele: 81 copies">
+##ALT=<ID=CN82,Description="Copy number allele: 82 copies">
+##ALT=<ID=CN83,Description="Copy number allele: 83 copies">
+##ALT=<ID=CN84,Description="Copy number allele: 84 copies">
+##ALT=<ID=CN85,Description="Copy number allele: 85 copies">
+##ALT=<ID=CN86,Description="Copy number allele: 86 copies">
+##ALT=<ID=CN87,Description="Copy number allele: 87 copies">
+##ALT=<ID=CN88,Description="Copy number allele: 88 copies">
+##ALT=<ID=CN89,Description="Copy number allele: 89 copies">
+##ALT=<ID=CN90,Description="Copy number allele: 90 copies">
+##ALT=<ID=CN91,Description="Copy number allele: 91 copies">
+##ALT=<ID=CN92,Description="Copy number allele: 92 copies">
+##ALT=<ID=CN93,Description="Copy number allele: 93 copies">
+##ALT=<ID=CN94,Description="Copy number allele: 94 copies">
+##ALT=<ID=CN95,Description="Copy number allele: 95 copies">
+##ALT=<ID=CN96,Description="Copy number allele: 96 copies">
+##ALT=<ID=CN97,Description="Copy number allele: 97 copies">
+##ALT=<ID=CN98,Description="Copy number allele: 98 copies">
+##ALT=<ID=CN99,Description="Copy number allele: 99 copies">
+##ALT=<ID=CN100,Description="Copy number allele: 100 copies">
+##ALT=<ID=CN101,Description="Copy number allele: 101 copies">
+##ALT=<ID=CN102,Description="Copy number allele: 102 copies">
+##ALT=<ID=CN103,Description="Copy number allele: 103 copies">
+##ALT=<ID=CN104,Description="Copy number allele: 104 copies">
+##ALT=<ID=CN105,Description="Copy number allele: 105 copies">
+##ALT=<ID=CN106,Description="Copy number allele: 106 copies">
+##ALT=<ID=CN107,Description="Copy number allele: 107 copies">
+##ALT=<ID=CN108,Description="Copy number allele: 108 copies">
+##ALT=<ID=CN109,Description="Copy number allele: 109 copies">
+##ALT=<ID=CN110,Description="Copy number allele: 110 copies">
+##ALT=<ID=CN111,Description="Copy number allele: 111 copies">
+##ALT=<ID=CN112,Description="Copy number allele: 112 copies">
+##ALT=<ID=CN113,Description="Copy number allele: 113 copies">
+##ALT=<ID=CN114,Description="Copy number allele: 114 copies">
+##ALT=<ID=CN115,Description="Copy number allele: 115 copies">
+##ALT=<ID=CN116,Description="Copy number allele: 116 copies">
+##ALT=<ID=CN117,Description="Copy number allele: 117 copies">
+##ALT=<ID=CN118,Description="Copy number allele: 118 copies">
+##ALT=<ID=CN119,Description="Copy number allele: 119 copies">
+##ALT=<ID=CN120,Description="Copy number allele: 120 copies">
+##ALT=<ID=CN121,Description="Copy number allele: 121 copies">
+##ALT=<ID=CN122,Description="Copy number allele: 122 copies">
+##ALT=<ID=CN123,Description="Copy number allele: 123 copies">
+##ALT=<ID=CN124,Description="Copy number allele: 124 copies">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##INFO=<ID=CIEND,Number=2,Type=Integer,Description="Confidence interval around END for imprecise variants">
+##INFO=<ID=CIPOS,Number=2,Type=Integer,Description="Confidence interval around POS for imprecise variants">
+##INFO=<ID=CS,Number=1,Type=String,Description="Source call set.">
+##INFO=<ID=END,Number=1,Type=Integer,Description="End coordinate of this variant">
+##INFO=<ID=IMPRECISE,Number=0,Type=Flag,Description="Imprecise structural variation">
+##INFO=<ID=MC,Number=.,Type=String,Description="Merged calls.">
+##INFO=<ID=MEINFO,Number=4,Type=String,Description="Mobile element info of the form NAME,START,END<POLARITY; If there is only 5' OR 3' support for this call, will be NULL NULL for START and END">
+##INFO=<ID=MEND,Number=1,Type=Integer,Description="Mitochondrial end coordinate of inserted sequence">
+##INFO=<ID=MLEN,Number=1,Type=Integer,Description="Estimated length of mitochondrial insert">
+##INFO=<ID=MSTART,Number=1,Type=Integer,Description="Mitochondrial start coordinate of inserted sequence">
+##INFO=<ID=SVLEN,Number=.,Type=Integer,Description="SV length. It is only calculated for structural variation MEIs. For other types of SVs; one may calculate the SV length by INFO:END-START+1, or by finding the difference between lengthes of REF and ALT alleles">
+##INFO=<ID=SVTYPE,Number=1,Type=String,Description="Type of structural variant">
+##INFO=<ID=TSD,Number=1,Type=String,Description="Precise Target Site Duplication for bases, if unknown, value will be NULL">
+##INFO=<ID=AC,Number=A,Type=Integer,Description="Total number of alternate alleles in called genotypes">
+##INFO=<ID=AF,Number=A,Type=Float,Description="Estimated allele frequency in the range (0,1)">
+##INFO=<ID=NS,Number=1,Type=Integer,Description="Number of samples with data">
+##INFO=<ID=AN,Number=1,Type=Integer,Description="Total number of alleles in called genotypes">
+##INFO=<ID=EAS_AF,Number=A,Type=Float,Description="Allele frequency in the EAS populations calculated from AC and AN, in the range (0,1)">
+##INFO=<ID=EUR_AF,Number=A,Type=Float,Description="Allele frequency in the EUR populations calculated from AC and AN, in the range (0,1)">
+##INFO=<ID=AFR_AF,Number=A,Type=Float,Description="Allele frequency in the AFR populations calculated from AC and AN, in the range (0,1)">
+##INFO=<ID=AMR_AF,Number=A,Type=Float,Description="Allele frequency in the AMR populations calculated from AC and AN, in the range (0,1)">
+##INFO=<ID=SAS_AF,Number=A,Type=Float,Description="Allele frequency in the SAS populations calculated from AC and AN, in the range (0,1)">
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Total read depth; only low coverage data were counted towards the DP, exome data were not used">
+##INFO=<ID=AA,Number=1,Type=String,Description="Ancestral Allele. Format: AA|REF|ALT|IndelType. AA: Ancestral allele, REF:Reference Allele, ALT:Alternate Allele, IndelType:Type of Indel (REF, ALT and IndelType are only defined for indels)">
+##INFO=<ID=VT,Number=.,Type=String,Description="indicates what type of variant the line represents">
+##INFO=<ID=EX_TARGET,Number=0,Type=Flag,Description="indicates whether a variant is within the exon pull down target boundaries">
+##INFO=<ID=MULTI_ALLELIC,Number=0,Type=Flag,Description="indicates whether a site is multi-allelic">
+##bcftools_viewVersion=1.3+htslib-1.3
+##bcftools_viewCommand=view -Oz -S TSI.samples.list ALL.chr15.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	NA20502	NA20503	NA20504	NA20505	NA20506	NA20507	NA20508	NA20509	NA20510	NA20511	NA20512	NA20513	NA20514	NA20515	NA20516	NA20517	NA20518	NA20519	NA20520	NA20521	NA20522	NA20524	NA20525	NA20527	NA20528	NA20529	NA20530	NA20531	NA20532	NA20533	NA20534	NA20535	NA20536	NA20538	NA20539	NA20540	NA20541	NA20542	NA20543	NA20544	NA20581	NA20582	NA20585	NA20586	NA20587	NA20588	NA20589	NA20752	NA20753	NA20754	NA20755	NA20756	NA20757	NA20758	NA20759	NA20760	NA20761	NA20762	NA20763	NA20764	NA20765	NA20766	NA20767	NA20768	NA20769	NA20770	NA20771	NA20772	NA20773	NA20774	NA20775	NA20778	NA20783	NA20785	NA20786	NA20787	NA20790	NA20792	NA20795	NA20796	NA20797	NA20798	NA20799	NA20800	NA20801	NA20802	NA20803	NA20804	NA20805	NA20806	NA20807	NA20808	NA20809	NA20810	NA20811	NA20812	NA20813	NA20814	NA20815	NA20818	NA20819	NA20821	NA20822	NA20826	NA20827	NA20828	NA20832
+15	38483866	rs10152739	A	T	100	PASS	AC=68;AF=0.242212;AN=214;NS=2504;DP=17209;EAS_AF=0.2232;AMR_AF=0.1571;AFR_AF=0.3502;EUR_AF=0.2773;SAS_AF=0.1401;AA=T|||;VT=SNP	GT	0|0	0|0	1|1	0|0	0|1	0|1	1|1	1|0	0|0	1|0	1|1	0|0	1|0	0|0	0|0	0|0	0|0	0|0	1|1	1|0	0|1	1|0	0|0	0|0	1|1	0|1	1|1	0|1	1|0	1|0	0|1	0|0	0|0	1|0	0|0	1|0	1|0	0|1	1|1	0|0	0|1	0|0	1|0	1|0	0|0	1|0	0|1	0|1	1|0	0|1	0|0	1|1	0|0	0|0	0|0	0|0	0|0	0|1	0|0	1|0	0|0	0|0	0|1	0|1	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|1	1|1	0|0	0|1	0|1	0|0	0|1	0|0	0|0	0|0	0|1	0|0	1|1	0|0	1|1	1|1	0|0	1|0	0|0	1|0	0|1	0|0	0|0	0|1	0|0	1|0	1|0	0|0	1|0	0|0	0|0	1|0	0|0	0|1	0|0	0|1
+15	41796498	rs316618	T	A	100	PASS	AC=56;AF=0.132188;AN=214;NS=2504;DP=18318;EAS_AF=0.0089;AMR_AF=0.1844;AFR_AF=0.1218;EUR_AF=0.2495;SAS_AF=0.1155;AA=T|||;VT=SNP;EX_TARGET	GT	0|0	1|0	0|0	0|0	0|0	1|1	0|0	0|0	0|1	1|1	0|0	0|0	0|0	0|0	0|0	0|0	0|0	1|1	1|0	0|1	0|0	0|0	0|0	0|1	1|1	0|0	0|0	0|0	0|1	0|1	0|0	0|0	0|0	0|0	0|0	0|0	0|1	0|0	0|0	0|0	1|0	1|1	0|0	0|0	0|1	0|0	0|0	0|0	1|0	0|0	1|0	0|0	0|0	0|0	1|1	0|0	0|0	1|0	0|1	0|0	1|0	0|0	1|1	0|0	0|1	1|0	0|1	0|0	0|1	1|1	0|0	0|0	0|1	0|1	0|0	0|0	0|0	0|0	0|0	1|1	1|0	0|1	0|1	0|0	0|0	0|0	0|0	0|0	1|0	1|0	1|1	0|1	0|1	1|0	1|0	0|0	0|0	0|0	0|0	0|0	1|1	0|0	1|0	0|0	0|0	0|1	1|1
+15	48914926	rs1036477	A	G	100	PASS	AC=30;AF=0.294329;AN=214;NS=2504;DP=18427;EAS_AF=0.2698;AMR_AF=0.1527;AFR_AF=0.612;EUR_AF=0.1173;SAS_AF=0.1728;AA=G|||;VT=SNP	GT	0|0	0|0	0|0	0|0	0|1	0|0	1|0	0|0	1|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|1	0|0	0|1	0|1	0|0	0|0	0|0	1|0	0|1	0|0	1|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	1|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|1	1|0	0|0	0|0	1|1	0|0	0|0	0|0	0|1	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|1	0|0	0|0	0|0	0|0	1|1	0|0	0|0	0|0	0|1	0|0	0|0	1|0	0|0	0|0	1|0	0|0	0|1	0|0	0|0	0|1	0|1	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	1|0	1|0	0|0	0|0	0|0	0|0
+15	51269629	rs10744956	A	G	100	PASS	AC=172;AF=0.748802;AN=214;NS=2504;DP=14388;EAS_AF=0.6488;AMR_AF=0.7291;AFR_AF=0.8775;EUR_AF=0.7783;SAS_AF=0.6616;AA=G|||;VT=SNP	GT	1|1	0|1	1|1	1|0	1|1	1|1	0|0	1|0	1|1	1|1	0|1	1|1	0|1	1|1	1|1	1|1	1|1	1|1	1|1	1|1	0|1	1|1	0|1	1|1	0|1	0|1	1|1	1|1	1|0	1|1	1|1	1|1	1|1	1|1	1|1	1|1	1|1	1|1	1|1	1|1	1|1	1|1	0|1	1|0	1|1	1|0	1|1	1|1	0|1	1|0	1|1	1|1	0|1	1|0	1|1	1|1	1|1	0|1	1|1	1|1	1|1	0|1	1|1	0|1	0|1	1|1	0|0	1|1	1|1	1|1	0|1	1|0	1|1	1|1	1|1	0|1	1|1	1|1	1|1	1|0	0|0	1|1	1|1	0|1	0|1	1|1	1|1	1|1	0|0	1|1	0|1	1|1	1|1	0|1	1|1	1|1	1|1	1|1	0|0	1|1	1|1	1|1	1|0	0|1	1|1	1|1	1|0
+15	51530495	rs16964211	G	A	100	PASS	AC=10;AF=0.23103;AN=214;NS=2504;DP=16480;EAS_AF=0.2698;AMR_AF=0.0836;AFR_AF=0.3646;EUR_AF=0.0557;SAS_AF=0.2955;AA=G|||;VT=SNP	GT	0|0	0|0	0|0	0|1	0|0	0|0	0|1	0|1	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|1	0|0	0|0	0|0	0|1	0|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|1	0|0	1|0	0|0	0|0	0|0	0|0
+15	61408362	rs782930	G	A	100	PASS	AC=80;AF=0.559105;AN=214;NS=2504;DP=24406;EAS_AF=0.6617;AMR_AF=0.4006;AFR_AF=0.6513;EUR_AF=0.3946;SAS_AF=0.6104;AA=g|||;VT=SNP	GT	1|1	0|0	0|0	0|0	0|0	0|1	1|1	1|1	0|0	0|1	1|0	0|1	0|0	0|0	0|0	0|0	1|0	0|0	0|0	1|0	0|0	0|1	1|1	1|0	0|1	0|1	1|0	0|1	0|0	0|0	1|0	0|1	0|1	1|1	1|0	1|1	0|0	0|0	1|0	1|0	1|0	0|1	0|0	1|1	0|0	0|0	1|0	0|1	0|0	0|1	0|0	0|1	1|1	0|1	0|0	0|0	0|0	0|0	0|0	0|1	0|1	1|0	0|0	0|0	0|1	0|0	1|0	1|0	0|0	1|0	0|1	0|1	0|0	0|0	1|0	0|1	1|0	1|0	1|1	0|0	1|0	0|0	0|0	0|0	1|1	0|0	1|0	0|1	0|1	1|0	0|1	1|0	0|1	1|1	1|1	0|0	1|0	0|0	1|1	0|0	1|1	0|0	1|0	0|0	1|1	1|0	0|1
+15	62379971	rs7177711	A	G	100	PASS	AC=80;AF=0.415535;AN=214;NS=2504;DP=21219;EAS_AF=0.3859;AMR_AF=0.6052;AFR_AF=0.3321;EUR_AF=0.4642;SAS_AF=0.3742;AA=A|||;VT=SNP	GT	0|1	0|0	0|1	0|0	1|0	1|0	0|0	0|1	0|1	0|1	1|0	1|1	0|1	0|1	1|0	0|0	0|0	0|0	0|0	0|0	0|1	0|0	1|0	0|0	0|0	1|1	0|0	0|1	0|1	0|1	0|0	0|0	0|1	0|0	0|1	1|1	1|0	0|1	0|0	0|0	1|0	0|1	0|0	0|0	0|0	1|1	0|0	0|1	1|1	1|1	0|0	1|0	0|0	0|0	0|0	0|0	1|0	0|1	0|0	0|0	0|0	0|1	1|1	0|0	0|1	1|0	0|1	0|1	0|0	0|0	0|0	0|1	0|0	0|0	1|1	1|0	1|1	1|1	0|1	1|0	1|1	1|1	1|1	0|0	0|0	1|0	1|0	0|0	1|0	1|1	1|0	1|0	1|0	1|0	0|0	1|0	1|0	1|0	1|1	0|0	0|0	0|0	0|0	0|1	1|1	1|1	0|0
+15	63439186	rs7162825	C	T	100	PASS	AC=98;AF=0.271366;AN=214;NS=2504;DP=21968;EAS_AF=0.2054;AMR_AF=0.2752;AFR_AF=0.1589;EUR_AF=0.493;SAS_AF=0.2607;AA=C|||;VT=SNP	GT	0|1	0|1	1|0	0|1	0|0	0|1	1|0	1|0	1|1	1|1	0|1	0|0	0|1	1|0	0|0	0|0	1|1	1|0	1|0	0|0	0|1	0|0	0|1	0|1	1|1	1|0	1|0	0|0	1|0	0|0	0|1	0|0	1|1	0|1	0|0	1|1	1|1	0|0	0|1	1|0	0|0	1|0	1|0	0|1	1|1	0|1	0|0	0|1	1|1	0|1	1|1	0|0	0|1	1|1	1|0	1|0	1|1	1|0	1|0	1|0	0|0	0|1	0|0	1|1	1|1	1|0	0|1	1|0	0|1	1|1	1|0	0|0	1|0	1|0	0|1	0|1	0|0	0|0	0|0	0|0	0|0	1|1	0|1	1|1	0|0	1|0	0|0	0|1	1|1	1|1	1|1	0|0	0|1	0|0	1|0	1|0	0|0	0|0	1|1	1|0	0|1	0|1	0|0	1|1	1|0	0|0	0|0
+15	66997087	rs17264185	A	G	100	PASS	AC=58;AF=0.225639;AN=214;NS=2504;DP=20889;EAS_AF=0.1597;AMR_AF=0.2104;AFR_AF=0.2405;EUR_AF=0.2515;SAS_AF=0.2577;AA=A|||;VT=SNP	GT	0|1	0|0	0|1	1|0	0|0	0|0	0|0	0|0	0|1	0|1	0|0	0|0	1|0	0|0	0|1	0|1	1|0	1|0	0|0	0|1	0|1	1|0	0|0	1|0	0|0	0|0	0|0	0|1	0|1	0|0	0|1	0|0	0|1	0|0	0|1	1|0	1|0	0|1	1|0	1|1	0|0	0|0	0|0	0|1	0|1	0|0	0|1	0|0	1|0	1|0	0|0	0|1	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	1|0	1|0	0|1	0|1	0|0	0|0	0|1	0|0	1|0	1|1	0|0	0|0	0|0	0|0	0|1	1|1	0|1	0|1	0|1	1|0	0|0	0|1	0|1	1|0	0|0	0|1	0|0	0|1	0|0	0|1	1|0	1|0	0|0	0|0	0|1	0|0	0|0	1|0	0|0	0|0	0|0	1|1
+15	70048157	rs10152591	A	C	100	PASS	AC=7;AF=0.0808706;AN=214;NS=2504;DP=18679;EAS_AF=0.0218;AMR_AF=0.0519;AFR_AF=0.1407;EUR_AF=0.0736;SAS_AF=0.089;AA=C|||;VT=SNP	GT	0|0	0|0	0|0	0|0	0|0	0|1	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0
+15	70364352	rs975210	G	A	100	PASS	AC=21;AF=0.153754;AN=214;NS=2504;DP=17968;EAS_AF=0.1518;AMR_AF=0.1023;AFR_AF=0.1914;EUR_AF=0.1402;SAS_AF=0.1554;AA=G|||;VT=SNP	GT	0|1	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|1	0|0	0|0	1|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|1	1|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	1|1	0|0	0|0	0|0	0|0	0|0	0|1	0|0	1|0	0|0	0|0	0|0	0|0	1|0	1|0	0|1	0|0	0|1	1|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|1	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|1	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0
+15	72084693	rs11634405	A	G	100	PASS	AC=130;AF=0.378594;AN=214;NS=2504;DP=18715;EAS_AF=0.1915;AMR_AF=0.6138;AFR_AF=0.084;EUR_AF=0.6342;SAS_AF=0.5399;AA=A|||;VT=SNP	GT	0|1	0|0	0|1	0|0	0|1	0|1	0|0	1|0	1|0	1|1	1|1	1|1	1|1	0|1	0|0	0|1	1|1	0|1	0|0	1|1	1|1	1|1	0|0	1|1	1|0	0|1	0|1	0|1	1|1	1|0	0|0	1|1	1|0	0|1	1|0	1|1	0|1	0|1	0|0	1|1	0|1	1|0	1|1	0|0	1|1	0|1	1|1	0|0	1|1	1|0	1|1	1|0	1|1	0|1	1|1	1|1	1|1	0|1	0|0	0|0	0|0	1|0	0|1	0|0	0|1	0|0	1|1	0|1	1|1	1|0	0|0	1|0	1|1	1|0	1|1	1|1	1|1	1|1	1|0	1|1	1|1	0|1	1|0	0|0	1|1	1|1	0|1	0|1	0|0	0|1	1|1	0|1	1|1	1|1	0|1	0|0	1|1	1|1	0|1	1|0	1|1	1|1	0|1	1|1	1|1	0|1	0|1
+15	72842705	rs12904334	G	A	100	PASS	AC=0;AF=0.0211661;AN=214;NS=2504;DP=17642;EAS_AF=0.0704;AMR_AF=0.0058;AFR_AF=0;EUR_AF=0.0099;SAS_AF=0.0215;AA=G|||;VT=SNP	GT	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0
+15	74226765	rs4337252	G	C	100	PASS	AC=104;AF=0.572684;AN=214;NS=2504;DP=18168;EAS_AF=0.6617;AMR_AF=0.4813;AFR_AF=0.5953;EUR_AF=0.503;SAS_AF=0.5869;AA=C|||;VT=SNP	GT	0|0	1|1	0|1	0|0	1|1	0|0	0|1	1|0	0|0	1|1	0|1	1|0	0|0	1|1	0|0	1|0	0|1	1|1	0|1	1|0	1|1	0|1	1|1	1|0	0|0	1|1	1|0	0|1	1|0	0|1	0|0	0|0	0|0	1|1	1|1	1|1	0|0	1|1	1|0	1|0	0|1	1|0	0|0	1|0	0|1	1|0	0|0	1|1	0|0	0|1	1|1	1|0	0|1	0|1	1|0	0|0	0|1	1|1	0|0	1|1	0|0	1|0	0|1	0|0	0|0	1|0	1|0	0|1	0|1	0|0	0|0	0|0	1|0	1|0	1|1	1|0	1|1	1|0	1|1	0|1	1|0	0|1	1|0	1|0	0|0	0|1	1|0	0|0	0|0	1|1	0|0	0|1	1|1	1|0	1|0	1|0	1|0	1|1	0|1	1|0	0|1	1|0	0|1	1|1	0|0	1|1	1|0
+15	74336633	rs5742915	T	C	100	PASS	AC=91;AF=0.192292;AN=214;NS=2504;DP=18031;EAS_AF=0.004;AMR_AF=0.2911;AFR_AF=0.0454;EUR_AF=0.4384;SAS_AF=0.2618;AA=T|||;VT=SNP;EX_TARGET	GT	1|0	1|0	0|0	0|1	1|0	0|1	1|1	0|0	1|1	1|0	1|0	0|1	0|0	0|0	0|0	1|1	0|0	0|1	1|0	0|0	1|0	1|0	0|0	1|0	0|0	1|1	1|0	0|1	1|1	1|1	0|1	1|0	0|1	0|1	1|0	1|0	0|1	0|0	1|1	1|1	0|0	0|1	1|1	0|0	0|1	1|0	0|1	0|0	1|1	0|0	0|0	0|0	0|0	1|0	0|0	1|1	0|0	1|0	1|0	0|0	1|0	1|1	1|1	1|0	1|0	0|0	1|1	0|1	1|1	0|0	0|0	1|1	0|0	0|0	1|0	1|0	0|0	1|0	1|1	0|0	0|0	1|1	0|0	0|1	1|0	0|0	0|1	0|1	0|0	1|0	0|0	1|0	0|0	1|0	0|0	1|1	1|0	0|1	0|0	0|1	1|1	0|1	0|0	0|1	0|1	0|0	1|1
+15	76740219	rs16968242	C	G	100	PASS	AC=27;AF=0.0692891;AN=214;NS=2504;DP=20817;EAS_AF=0.0427;AMR_AF=0.0403;AFR_AF=0.1188;EUR_AF=0.0755;SAS_AF=0.044;AA=C|||;VT=SNP	GT	1|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	1|0	0|0	0|0	0|1	1|0	0|0	0|0	0|0	0|0	0|0	1|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|1	0|1	0|0	0|0	0|0	0|1	0|0	0|0	0|0	0|1	0|0	0|0	0|1	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|1	1|0	0|0	0|0	0|0	0|1	0|0	0|0	0|0	0|0	0|0	0|1	1|1	0|0	0|0	0|0	0|0	0|0	0|1	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	1|1	0|1	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|1
+15	81836638	rs12914466	G	A	100	PASS	AC=112;AF=0.480232;AN=214;NS=2504;DP=18458;EAS_AF=0.7351;AMR_AF=0.5504;AFR_AF=0.1982;EUR_AF=0.5845;SAS_AF=0.4417;AA=G|||;VT=SNP	GT	0|1	1|0	1|0	0|1	0|1	0|0	0|0	0|1	0|1	1|1	0|1	1|1	1|0	0|0	0|0	1|1	1|0	1|1	1|0	0|0	1|0	0|0	1|0	1|1	0|1	0|0	1|1	0|0	1|0	1|0	1|1	1|1	0|0	0|1	0|1	1|0	0|1	1|1	1|0	1|0	0|0	1|1	0|0	1|1	1|1	0|1	1|0	0|1	1|1	0|1	0|1	1|1	0|1	1|1	1|0	1|0	1|0	0|1	0|0	1|1	1|0	1|0	0|1	0|0	1|0	0|1	1|0	0|0	0|0	1|0	0|1	0|1	1|1	1|1	1|1	0|1	0|0	0|1	0|1	1|0	1|1	0|1	0|0	1|1	1|0	1|1	1|1	1|1	0|1	1|1	1|1	1|0	1|1	1|0	1|1	0|0	1|1	0|0	0|0	0|0	1|0	0|0	0|0	0|1	1|0	0|0	1|0
+15	82231920	rs17349981	A	T	100	PASS	AC=24;AF=0.0389377;AN=214;NS=2504;DP=18474;EAS_AF=0.001;AMR_AF=0.0562;AFR_AF=0.0045;EUR_AF=0.1332;SAS_AF=0.0153;AA=A|||;VT=SNP	GT	0|0	0|0	0|0	0|1	0|0	0|0	0|0	0|0	0|0	0|1	0|0	0|0	1|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	1|0	0|0	0|1	0|0	0|0	0|0	0|0	0|0	0|0	0|1	0|0	0|1	0|0	0|0	1|1	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	1|0	0|0	0|1	0|1	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|1	0|0	0|0	0|0	0|0	0|0	1|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	1|0	0|1	0|0	0|0	0|0	0|0	0|0	0|0	1|0	1|0	0|0	0|0	0|0
+15	84266145	rs2257011	G	T	100	PASS	AC=107;AF=0.660343;AN=214;NS=2504;DP=15324;EAS_AF=0.5764;AMR_AF=0.6974;AFR_AF=0.9138;EUR_AF=0.498;SAS_AF=0.545;AA=T|||;VT=SNP	GT	1|1	0|1	1|0	1|1	0|1	1|0	1|1	1|0	0|0	0|1	1|0	1|1	1|1	1|0	1|1	0|1	0|1	1|1	0|1	0|0	0|0	0|0	0|0	1|1	0|0	0|1	0|1	1|1	0|0	0|1	0|0	1|0	1|1	0|1	1|0	0|1	0|0	0|0	0|1	0|0	0|0	0|1	1|1	1|1	1|0	1|1	0|1	0|1	0|1	1|0	0|0	0|0	1|0	0|0	1|1	0|1	0|0	1|1	0|1	1|1	1|0	0|1	0|1	1|0	1|1	0|1	0|0	1|0	0|1	1|0	1|0	0|1	1|0	1|0	1|1	0|1	0|0	1|0	1|0	0|0	1|0	1|1	0|1	1|0	0|1	1|1	0|1	0|0	0|0	1|0	1|0	1|0	1|0	1|0	1|1	1|0	0|0	0|1	1|1	0|1	1|1	0|1	0|0	0|0	1|0	1|1	0|1
+15	84514290	rs7162542	C	G	100	PASS	AC=125;AF=0.743211;AN=214;NS=2504;DP=20169;EAS_AF=0.9464;AMR_AF=0.7378;AFR_AF=0.7648;EUR_AF=0.5606;SAS_AF=0.6963;AA=G|||;VT=SNP	GT	1|1	1|1	0|0	1|1	1|1	0|1	1|1	1|0	0|0	0|1	1|0	1|1	1|1	1|0	1|1	0|1	0|1	1|1	0|1	0|0	1|1	0|1	1|1	1|1	1|0	0|1	0|1	1|1	0|0	0|1	1|0	1|0	1|1	1|1	1|0	0|1	1|0	0|1	0|0	0|0	1|0	1|1	1|1	1|1	1|0	1|1	0|1	1|1	1|1	1|0	0|0	0|0	1|0	0|1	0|1	0|0	0|1	1|0	0|1	1|1	1|0	0|1	0|1	1|0	1|0	1|1	0|0	1|1	0|1	1|1	1|0	0|1	1|0	0|0	1|1	0|1	1|0	1|1	1|0	1|0	1|0	1|0	0|0	0|0	0|1	1|0	0|1	0|1	0|1	1|0	1|0	1|0	1|1	1|0	1|1	1|0	1|1	0|1	1|0	0|1	0|1	0|1	0|0	1|0	1|0	1|1	1|1
+15	85728834	rs11855014	G	A	100	PASS	AC=68;AF=0.34984;AN=214;NS=2504;DP=16307;EAS_AF=0.3978;AMR_AF=0.2147;AFR_AF=0.32;EUR_AF=0.2992;SAS_AF=0.4888;AA=.|||;VT=SNP	GT	0|1	0|0	1|0	0|1	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	1|1	0|0	1|0	1|0	0|1	0|1	0|1	0|0	0|1	0|1	1|0	1|0	0|0	1|0	0|0	1|0	0|1	0|0	0|0	0|0	0|0	1|1	1|0	0|0	1|0	1|1	0|0	0|0	1|0	0|0	0|0	0|0	0|0	1|0	0|0	0|1	1|0	1|0	0|1	0|1	0|1	0|0	1|1	0|0	0|1	0|0	0|0	1|1	0|0	0|0	0|0	0|0	0|0	1|1	1|0	0|1	0|0	0|0	0|0	0|1	0|1	0|1	1|0	0|0	0|1	1|0	1|1	1|0	1|0	0|0	1|0	0|0	1|0	0|0	1|0	1|1	0|0	1|0	0|1	1|0	0|1	1|0	1|0	0|0	0|0	0|1	1|0	0|1	0|1	0|1	0|0	0|0	0|0	0|0	1|0
+15	89113138	rs1348002	G	C	100	PASS	AC=79;AF=0.376597;AN=214;NS=2504;DP=17005;EAS_AF=0.2946;AMR_AF=0.2378;AFR_AF=0.5802;EUR_AF=0.3429;SAS_AF=0.319;AA=C|||;VT=SNP	GT	0|1	0|1	1|0	0|0	0|0	1|0	1|0	0|1	0|0	1|0	1|1	1|0	1|0	1|0	1|0	1|0	1|1	1|0	1|0	0|1	1|1	0|0	0|0	0|1	0|0	0|0	0|1	0|0	0|0	0|0	0|0	0|0	0|1	0|0	0|1	1|0	0|0	0|0	0|1	0|1	1|1	1|1	0|1	0|0	0|0	0|0	0|1	0|0	0|1	0|0	0|1	0|1	0|0	1|1	1|0	0|0	0|1	1|1	0|0	0|0	0|0	1|0	1|0	0|0	0|0	0|1	0|1	0|1	1|0	1|0	1|1	0|1	0|0	0|1	0|1	1|0	0|0	0|1	0|0	1|1	0|0	0|1	1|0	0|0	0|1	1|0	1|1	1|1	1|0	1|0	0|0	0|0	1|0	0|0	1|0	1|0	0|0	0|0	0|1	0|1	0|1	0|0	0|0	0|0	1|0	1|1	0|1
+15	89356832	rs11633371	G	T	100	PASS	AC=98;AF=0.63119;AN=214;NS=2504;DP=18935;EAS_AF=0.9067;AMR_AF=0.6455;AFR_AF=0.5681;EUR_AF=0.505;SAS_AF=0.5521;AA=T|||;VT=SNP	GT	1|1	0|0	0|1	0|0	0|1	0|0	0|1	1|1	0|0	0|0	0|1	0|1	1|0	1|1	1|0	0|0	0|0	0|0	1|0	0|1	1|0	1|0	1|0	0|0	1|1	1|0	0|1	0|0	1|1	1|1	0|1	0|1	1|1	1|1	0|0	1|1	0|0	0|1	0|1	1|0	1|1	0|1	1|0	1|0	0|0	1|0	0|0	1|0	1|0	1|0	0|0	1|1	1|1	1|0	0|0	1|1	1|0	1|1	0|0	1|0	0|1	1|1	1|1	0|0	0|0	1|0	1|1	0|0	0|0	0|1	1|0	0|0	0|0	0|1	0|0	0|1	1|1	0|1	0|0	1|1	0|0	0|0	0|0	1|1	0|0	1|0	0|1	0|1	1|1	0|0	1|1	1|0	0|0	0|1	0|0	0|0	1|1	0|0	0|1	1|1	1|0	0|1	1|1	1|0	0|0	1|1	1|0
+15	89388905	rs16942341	C	T	100	PASS	AC=4;AF=0.0625;AN=214;NS=2504;DP=21207;EAS_AF=0;AMR_AF=0.036;AFR_AF=0.1641;EUR_AF=0.0249;SAS_AF=0.047;AA=C|||;VT=SNP;EX_TARGET	GT	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|1	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0
+15	89395626	rs2280470	A	G	100	PASS	AC=143;AF=0.581669;AN=214;NS=2504;DP=17491;EAS_AF=0.2808;AMR_AF=0.4669;AFR_AF=0.8101;EUR_AF=0.6789;SAS_AF=0.5644;AA=G|||;VT=SNP	GT	1|1	1|1	1|1	0|0	0|0	0|1	1|0	1|1	1|1	1|1	1|0	0|1	1|1	1|0	1|0	1|1	1|0	1|0	0|0	0|1	1|0	1|1	1|1	1|0	0|1	0|1	1|1	1|1	0|0	0|1	0|1	1|1	1|0	1|1	0|0	1|1	1|0	1|1	1|0	1|1	0|0	1|0	1|1	0|1	1|0	1|0	1|1	0|0	1|0	0|0	1|1	0|1	1|1	1|1	1|1	1|1	1|1	1|1	0|0	1|0	1|1	1|1	1|0	1|1	1|1	1|1	1|1	1|1	1|1	1|1	0|0	0|0	0|1	1|1	1|0	1|0	1|1	1|1	1|0	1|1	0|1	0|1	0|0	1|1	1|1	0|1	1|1	1|1	1|0	0|1	1|0	0|1	0|1	0|1	1|0	1|1	0|0	0|1	1|1	1|0	1|1	1|1	0|1	0|1	1|0	1|1	1|1
+15	89415247	rs3817428	C	G	100	PASS	AC=39;AF=0.114217;AN=214;NS=2504;DP=22065;EAS_AF=0.123;AMR_AF=0.1268;AFR_AF=0.0477;EUR_AF=0.2445;SAS_AF=0.0521;AA=C|||;VT=SNP;EX_TARGET	GT	0|1	0|0	0|0	0|0	0|0	0|0	1|0	0|1	0|1	0|0	0|0	0|0	1|1	1|0	1|0	0|0	0|0	0|0	0|0	1|1	0|0	1|1	0|0	0|0	0|1	0|0	0|0	0|1	0|0	0|0	0|1	1|1	1|0	0|0	0|0	1|0	0|0	0|0	0|0	1|1	0|0	0|0	0|0	0|0	0|0	0|0	0|1	0|1	0|0	0|0	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	1|0	1|0	0|1	0|0	0|0	1|0	0|0	0|0	1|0	0|0	0|0	0|0	1|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|1	0|1	0|0	0|0	0|0	0|0	0|1	0|0	1|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|1	0|0	0|0	0|1	0|0	0|0	0|0	0|1	0|0
+15	89851580	rs2238300	G	A	100	PASS	AC=88;AF=0.347843;AN=214;NS=2504;DP=21506;EAS_AF=0.3254;AMR_AF=0.3689;AFR_AF=0.3207;EUR_AF=0.3956;SAS_AF=0.3436;AA=A|||;VT=SNP	GT	0|1	0|0	0|1	1|0	1|0	0|0	0|0	1|0	0|0	1|0	1|0	1|0	1|0	0|0	1|0	0|0	1|0	0|1	1|0	1|1	1|0	0|0	1|0	0|0	1|0	0|1	0|1	1|0	0|0	0|0	0|0	0|1	0|0	1|0	0|0	1|0	1|1	0|0	1|0	1|0	0|1	0|0	0|0	0|0	0|0	1|0	1|1	0|1	0|1	1|1	0|1	1|0	0|0	1|0	1|1	0|0	1|1	0|0	0|1	0|0	0|1	0|1	1|0	1|1	0|1	0|1	0|1	0|1	0|1	1|0	0|0	1|0	0|0	1|0	0|0	0|0	1|0	0|0	0|1	0|1	0|1	1|1	1|0	1|0	1|1	1|0	0|1	1|1	0|1	1|1	1|1	0|0	0|1	0|0	0|0	1|0	0|0	1|1	0|0	0|0	1|0	1|1	0|1	0|1	0|1	1|1	0|0
+15	94028149	rs8028843	T	C	100	PASS	AC=66;AF=0.712859;AN=214;NS=2504;DP=22463;EAS_AF=0.9683;AMR_AF=0.6268;AFR_AF=0.7958;EUR_AF=0.3728;SAS_AF=0.7485;AA=C|||;VT=SNP	GT	0|0	0|1	1|1	0|0	1|0	1|0	0|0	1|0	0|0	1|0	0|0	0|0	0|0	1|0	0|0	0|1	0|0	1|0	0|1	0|0	0|1	1|0	0|0	0|0	0|0	0|0	0|0	0|1	1|0	1|1	0|0	0|0	1|1	0|0	1|0	0|0	0|0	1|1	0|0	0|0	0|0	0|0	1|0	1|0	1|1	0|0	0|0	1|0	0|1	1|1	0|0	0|1	0|0	0|1	1|1	0|1	0|0	0|0	0|0	1|0	0|1	0|0	0|0	0|1	0|0	0|0	0|1	0|0	0|0	1|0	1|0	0|0	0|0	0|1	0|1	0|0	0|1	0|0	1|0	0|1	1|1	1|0	0|0	1|1	0|1	1|0	0|1	0|0	0|1	0|0	1|0	0|1	0|1	0|0	0|0	0|1	0|1	0|1	0|0	0|1	0|0	0|0	0|0	1|1	1|0	0|0	0|1
+15	94551607	rs7181724	A	G	100	PASS	AC=99;AF=0.35623;AN=214;NS=2504;DP=20478;EAS_AF=0.3452;AMR_AF=0.3256;AFR_AF=0.3154;EUR_AF=0.4573;SAS_AF=0.3405;AA=A|||;VT=SNP	GT	1|1	0|1	1|1	0|0	1|1	0|0	0|0	0|1	1|1	1|0	0|1	1|1	1|0	0|1	1|1	0|1	1|1	1|0	0|0	1|0	1|0	0|0	1|0	1|0	1|0	0|0	0|0	0|1	1|0	0|0	1|1	0|1	1|1	1|1	1|1	1|1	0|1	0|0	0|0	0|0	1|0	1|1	1|0	1|0	0|0	0|0	1|1	0|0	1|0	0|1	1|1	1|1	0|0	0|0	0|0	1|0	0|1	1|1	1|0	0|0	1|0	1|0	1|1	0|1	0|0	1|1	1|1	1|0	0|1	0|0	1|1	0|0	1|0	0|0	0|0	0|1	0|0	0|0	0|1	1|0	0|1	1|0	1|0	1|1	1|1	0|0	1|0	0|1	0|0	0|0	0|0	1|0	0|1	0|1	0|0	0|1	0|0	1|0	1|1	1|0	1|0	0|0	1|1	0|0	1|0	0|0	1|1
+15	99194896	rs2871865	C	G	100	PASS	AC=21;AF=0.225439;AN=214;NS=2504;DP=18076;EAS_AF=0.1141;AMR_AF=0.1369;AFR_AF=0.4849;EUR_AF=0.1282;SAS_AF=0.1524;AA=C|||;VT=SNP	GT	0|0	0|0	0|0	0|0	0|0	0|0	0|1	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|1	1|0	0|0	0|0	0|0	0|0	0|1	1|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	1|0	0|1	0|0	0|0	0|0	0|1	0|0	0|0	0|1	0|0	0|0	0|0	0|1	0|0	0|0	0|0	0|0	0|1	0|0	0|0	0|0	0|0	1|1	0|0	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|1	0|0	0|1	0|0	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|1	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0
+15	100513158	rs2573625	C	T	100	PASS	AC=126;AF=0.55611;AN=214;NS=2504;DP=21820;EAS_AF=0.4921;AMR_AF=0.5389;AFR_AF=0.5499;EUR_AF=0.6541;SAS_AF=0.5419;AA=T|||;VT=SNP	GT	1|1	1|1	1|1	0|1	1|0	0|1	0|1	0|1	1|0	1|1	1|0	1|1	1|0	0|1	0|1	0|0	1|1	0|0	0|0	0|0	1|1	1|1	1|0	1|1	1|0	0|0	1|1	0|1	1|1	1|1	0|0	0|0	1|0	0|1	1|0	1|1	1|1	0|1	0|1	0|1	0|0	1|1	1|1	1|1	0|0	1|1	1|0	1|1	0|1	1|1	1|0	1|1	0|1	0|1	0|1	1|1	1|1	1|1	1|1	1|1	1|0	1|0	1|0	0|1	1|1	0|0	0|1	1|0	1|1	0|0	0|0	0|0	1|1	1|1	0|0	1|0	1|0	1|0	1|1	1|1	0|0	0|0	1|1	0|1	1|1	0|0	1|1	0|1	0|0	0|0	0|1	0|1	0|0	0|0	1|0	1|1	0|0	1|0	1|0	1|1	1|1	1|1	1|1	1|0	1|1	1|0	1|0
+15	100687967	rs4246302	A	G	100	PASS	AC=70;AF=0.254593;AN=214;NS=2504;DP=23387;EAS_AF=0.3869;AMR_AF=0.1844;AFR_AF=0.1566;EUR_AF=0.3141;SAS_AF=0.2393;AA=A|||;VT=SNP	GT	0|0	1|1	1|0	0|0	0|1	1|0	0|0	0|1	0|0	1|0	0|0	0|0	1|1	1|0	0|0	1|0	0|1	0|0	1|1	1|1	0|0	0|0	0|1	0|1	0|0	0|1	0|1	0|1	0|0	0|0	1|0	0|0	0|1	1|0	1|0	0|0	0|1	0|1	1|1	1|1	1|0	0|0	0|0	0|1	0|0	0|0	0|0	0|1	0|0	0|0	0|0	0|0	1|0	1|0	0|1	0|0	0|1	1|1	1|0	0|0	1|1	1|0	0|1	1|1	0|1	0|1	1|0	1|0	1|1	0|1	0|0	0|0	0|0	1|0	1|1	0|0	0|1	0|0	0|0	0|0	1|0	1|0	0|0	0|0	1|0	1|0	0|1	0|0	0|0	0|0	0|0	0|0	0|0	0|1	1|0	0|0	0|0	1|1	0|0	1|0	0|0	0|0	0|0	0|1	0|0	0|0	1|0
+15	100761190	rs4548838	T	C	100	PASS	AC=106;AF=0.627596;AN=214;NS=2504;DP=20854;EAS_AF=0.63;AMR_AF=0.5216;AFR_AF=0.7731;EUR_AF=0.5537;SAS_AF=0.5798;AA=T|||;VT=SNP	GT	1|0	0|1	0|0	1|1	1|1	1|1	0|0	0|1	0|1	0|0	1|1	1|1	1|1	1|0	0|1	0|0	1|1	0|1	0|1	1|0	0|1	0|0	1|0	0|0	1|0	1|1	0|0	1|1	0|1	0|0	1|1	0|0	1|0	0|1	0|0	0|0	0|0	1|1	1|1	0|0	1|0	0|1	1|1	1|1	1|1	0|0	1|1	0|1	1|0	0|1	0|1	1|1	1|1	0|0	1|1	0|0	0|1	0|1	1|0	1|0	1|0	1|1	1|0	0|1	1|0	1|1	1|1	0|1	1|1	0|1	0|0	0|1	0|1	1|0	1|0	0|0	0|1	0|0	1|1	0|0	1|0	0|1	0|0	0|0	1|0	0|0	1|1	1|1	1|0	0|0	0|1	1|0	0|1	0|0	1|1	1|1	0|0	0|0	0|1	0|0	1|1	1|0	1|0	0|0	0|1	0|0	1|0
+15	101632867	rs7170986	G	A	100	PASS	AC=62;AF=0.386382;AN=214;NS=2504;DP=18008;EAS_AF=0.6696;AMR_AF=0.5461;AFR_AF=0.3109;EUR_AF=0.2336;SAS_AF=0.2403;AA=G|||;VT=SNP	GT	1|0	1|1	0|0	0|0	0|0	1|0	0|1	1|0	0|0	1|1	0|1	1|0	0|0	0|0	0|0	0|0	0|1	1|0	0|0	0|0	0|0	0|1	0|0	0|0	0|0	0|0	1|0	0|0	0|1	0|1	1|0	1|0	0|1	0|0	1|1	0|1	0|0	0|0	0|0	0|0	0|0	0|1	0|1	0|0	1|1	0|1	0|0	1|0	0|0	0|0	0|0	1|0	0|0	0|1	0|0	0|1	0|0	0|0	0|0	0|0	0|0	0|1	0|0	0|0	1|1	1|0	0|1	0|1	0|0	1|1	0|0	1|0	0|0	0|1	0|0	1|0	1|0	0|1	0|0	0|0	0|1	0|1	1|0	0|0	1|0	1|0	0|0	1|0	1|0	1|0	0|0	0|0	0|1	1|0	0|1	1|0	0|1	0|1	1|0	0|0	0|0	0|0	0|1	0|1	0|0	1|0	0|0
+15	101762539	rs8042424	C	T	100	PASS	AC=49;AF=0.279153;AN=214;NS=2504;DP=20192;EAS_AF=0.0347;AMR_AF=0.1657;AFR_AF=0.5915;EUR_AF=0.2356;SAS_AF=0.2342;AA=C|||;VT=SNP	GT	0|0	0|1	1|0	0|0	1|0	1|0	0|1	0|0	1|0	0|0	0|0	1|0	0|0	0|1	1|0	1|0	0|0	0|0	0|1	0|1	0|0	1|0	0|0	1|0	0|0	0|0	0|1	0|0	0|0	0|0	0|1	0|0	1|0	1|0	0|1	1|1	0|0	0|1	0|0	0|0	0|0	0|0	1|0	0|1	1|0	0|0	0|0	0|0	0|0	1|1	0|0	0|0	1|0	0|0	0|0	0|1	0|0	0|0	0|0	0|0	1|0	0|0	0|1	0|1	1|0	0|0	0|0	0|0	0|0	0|0	0|0	0|0	1|0	0|0	0|1	0|0	0|1	0|0	0|1	0|0	1|1	1|0	0|0	0|0	0|0	1|0	0|0	0|0	0|0	1|0	0|0	0|0	0|1	0|0	0|0	0|0	0|0	0|0	1|0	1|0	0|0	1|0	1|0	0|0	0|0	1|0	0|1

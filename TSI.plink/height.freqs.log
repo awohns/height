@@ -1,0 +1,29 @@
+PLINK v1.90b3.27 64-bit (13 Dec 2015)
+Options in effect:
+  --a1-allele height_snp_ref
+  --file TSI.plink/plink.all.chrs
+  --freq
+  --out TSI.plink/height.freqs
+
+Hostname: ebc201
+Working directory: /mmg/awwohns/height
+Start time: Wed Aug 23 16:21:38 2017
+
+Random number seed: 1503494498
+257661 MB RAM detected; reserving 128830 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (691 variants, 107 people).
+--file: TSI.plink/height.freqs-temporary.bed +
+TSI.plink/height.freqs-temporary.bim + TSI.plink/height.freqs-temporary.fam
+written.
+691 variants loaded from .bim file.
+107 people (0 males, 0 females, 107 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to TSI.plink/height.freqs.nosex .
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 107 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+--a1-allele: 691 assignments made.
+--freq: Allele frequencies (founders only) written to
+TSI.plink/height.freqs.frq .
+
+End time: Wed Aug 23 16:21:39 2017

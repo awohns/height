@@ -1,0 +1,34 @@
+PLINK v1.90b3.27 64-bit (13 Dec 2015)
+Options in effect:
+  --file johns.height.snps.plink/all.johns.height_with_rsid
+  --make-bed
+  --out johns.height.snps.plink/johns.height.nolowcov5percent
+  --remove ../population.statistics.2/low.cov.johns.to.remove.list
+
+Hostname: ebc201
+Working directory: /mmg/awwohns/height
+Start time: Wed Aug 23 16:45:47 2017
+
+Random number seed: 1503495947
+257661 MB RAM detected; reserving 128830 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (696 variants, 86 people).
+--file: johns.height.snps.plink/johns.height.nolowcov5percent-temporary.bed +
+johns.height.snps.plink/johns.height.nolowcov5percent-temporary.bim +
+johns.height.snps.plink/johns.height.nolowcov5percent-temporary.fam written.
+696 variants loaded from .bim file.
+86 people (0 males, 0 females, 86 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to
+johns.height.snps.plink/johns.height.nolowcov5percent.nosex .
+--remove: 32 people remaining.
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 32 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate in remaining samples is 0.956582.
+696 variants and 32 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to johns.height.snps.plink/johns.height.nolowcov5percent.bed +
+johns.height.snps.plink/johns.height.nolowcov5percent.bim +
+johns.height.snps.plink/johns.height.nolowcov5percent.fam ... done.
+
+End time: Wed Aug 23 16:45:47 2017
